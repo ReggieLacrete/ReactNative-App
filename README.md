@@ -43,13 +43,11 @@ Don't miss that ending slash after 3001! It's a small but very important detail.
 
 <h2>About the project</h2>
 
-<p>This is a e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+<p>This is a project built while attending Nucamp Coding Bootcamp built with React Native and Javascript.</p>
 
 <h3>Build with:</h3>
 
-» Vanila CSS <br>
+» React Native <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
